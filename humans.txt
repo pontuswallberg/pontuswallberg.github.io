@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Your title: Pontus Wallberg
+	Site: http://pontuswallberg.github.io/
+	Twitter: @PontusWallberg
+
+# THANKS
+
+	Name: Pontus Wallberg
+
+# TECHNOLOGY COLOPHON
+
+	CSS3, HTML5
+	jQuery, Modernizr, Normalize.css

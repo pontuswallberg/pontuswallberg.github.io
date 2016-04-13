@@ -128,7 +128,7 @@ h1 {
 a {
 	color: #f9e5d1;
 }
-a:hover {
+a:hover, a:focus {
 	color: #74FCBB;
 	text-decoration: none;
 }

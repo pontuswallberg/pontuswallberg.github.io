@@ -111,7 +111,9 @@ html, body {
 	font-family: 'Alte Haas Grotesk', Arial, sans-serif;
 	color: #f9e5d1;
 	background-color: #FC6A35;
-	//complement-color: #74FCBB;
+	//color: #74FCBB; //complement
+	//color: #f9e5d1; //light-grey
+	//color: #474342; //dark-grey
 }
 .footer {
 	position: absolute;
